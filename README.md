@@ -54,12 +54,9 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
-이렇게 하면 Java와 C#이 보편적으로 많이 사용되는 색상으로 변경된다냥!
-
-
-
 ---
 
+### 🍔 JINGBURGER
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a0999cd8-d154-4825-b7b8-d926c6f4ac65" alt="monitari profile image"/>
 </p>
@@ -67,7 +64,6 @@
 ---
 
 ### 📊 GitHub Stats & Visitors
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=monitari&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=monitari&theme=tokyonight" alt="GitHub Streak"/>
