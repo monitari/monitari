@@ -8,7 +8,7 @@
 
 ## 👀 About Me
 - 🔭 **Passionate about the Singularity** and its implications on technology and humanity  
-- 🌱 Currently sharpening my skills in **Python Programming**, while dabbling in **C, Java, JavaScript/CSS**  
+- 🌱 Currently sharpening my skills in **Python Programming**, while dabbling in **C, Java, JavaScript(or TypeScript)/CSS**  
 - 💡 Exploring cutting-edge technologies and building innovative projects  
 - 💞️ Open to collaboration on projects that challenge the norm and push boundaries 🗿  
 
