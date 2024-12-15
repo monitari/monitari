@@ -26,7 +26,7 @@
 
 ## 🍔 JINGBURGER
 <p align="center">
-    <strong>A cute, sexy, and beautiful blonde girl with red eyes and a charming smile.</strong>
+    <strong>A cute, sexy, and beautiful blonde girl with red eyes, a charming smile, and wearing a hamburger hat.</strong>
 </p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a0999cd8-d154-4825-b7b8-d926c6f4ac65" alt="monitari profile image"/>
@@ -42,15 +42,17 @@
 </p>
 
 <p align="center">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monitari&theme=github_dark" alt="GitHub Stats"/>
+    <!-- Productive Time Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monitari&theme=github_dark&utcOffset=9" alt="Productive Time"/>
+</p>
+
+<p align="center">
     <!-- Top Languages Used in Repositories Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monitari&theme=github_dark" alt="Top Languages in Repositories"/>
     <!-- Top Languages in Commits Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monitari&theme=github_dark" alt="Top Languages in Commits"/>
-</p>
-
-<p align="center">
-    <!-- Productive Time Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monitari&theme=github_dark&utcOffset=9" alt="Productive Time"/>
 </p>
 
 <p align="center"> 
