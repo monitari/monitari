@@ -54,8 +54,3 @@
     <!-- Top Languages in Commits Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monitari&theme=github_dark" alt="Top Languages in Commits"/>
 </p>
-
-<p align="center"> 
-    <!-- Visitors -->
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonitari&count_bg=%233D7CC8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=HOWDY%21&edge_flat=false"/></a>
-</p>
