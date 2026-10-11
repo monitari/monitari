@@ -27,13 +27,24 @@
 
 <!-- Auto-generated daily from repos tagged with the `featured` topic. Edits between the markers will be overwritten. -->
 <!-- FEATURED:START -->
-_Updating…_
+| Project | Description | Stack | ⭐ |
+|---|---|---|---|
+| [**JELLY-Unity**](https://github.com/monitari/JELLY-Unity) | This project is a step-by-step implementation of an idle game, following the Unity tutorial series by 골드메탈. | `HTML` | 1 |
+| [**monitari.github.io**](https://github.com/monitari/monitari.github.io) | BLOG \| monitari.github.io | `JavaScript` | 0 |
+| [**KOREA_ELECTION**](https://github.com/monitari/KOREA_ELECTION) | An interactive map-based archive of South Korean presidential election results from the 13th to 21st elections. | `HTML` | 0 |
+| [**SWINGBY**](https://github.com/monitari/SWINGBY) | SWINGBY is a gravity swing-by game where you launch a spaceship using gravitational sources within constellations and complete its trajectory. Break through 12 constellations with precise aiming and speed control, and challenge the all-time record on the Infinite Voyage. (used CODEX and CLAUDE Code) | `GDScript` | 0 |
+| [**EGG**](https://github.com/monitari/EGG) | EGG by GPT-5.6 sol | `JavaScript` | 0 |
+| [**WorldForge**](https://github.com/monitari/WorldForge) | WorldForge by GPT-5.6 sol | `TypeScript` | 0 |
 <!-- FEATURED:END -->
 
 ### 🕒 Recently Active
 
 <!-- RECENT:START -->
-_Updating…_
+- [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-09-29</sub>
+- [KOREA_ELECTION](https://github.com/monitari/KOREA_ELECTION) — An interactive map-based archive of South Korean presidential election results from the 13th to 21st elections. <sub>· updated 2026-08-27</sub>
+- [SWINGBY](https://github.com/monitari/SWINGBY) — SWINGBY is a gravity swing-by game where you launch a spaceship using gravitational sources within constellations and complete its trajectory. Break through 12 constellations with precise aiming and speed control, and challenge the all-time record on the Infinite Voyage. (used CODEX and CLAUDE Code) <sub>· updated 2026-08-27</sub>
+- [EGG](https://github.com/monitari/EGG) — EGG by GPT-5.6 sol <sub>· updated 2026-08-19</sub>
+- [WorldForge](https://github.com/monitari/WorldForge) — WorldForge by GPT-5.6 sol <sub>· updated 2026-08-19</sub>
 <!-- RECENT:END -->
 
 ---
