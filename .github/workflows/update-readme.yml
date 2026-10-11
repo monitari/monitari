@@ -1,0 +1,41 @@
+name: Update README projects
+
+on:
+  schedule:
+    - cron: "17 0 * * *"   # every day 09:17 KST
+  workflow_dispatch:         # manual run from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_projects.py"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate project sections
+        run: python scripts/update_projects.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: refresh project list"
+          git push
