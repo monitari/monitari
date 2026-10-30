@@ -40,7 +40,7 @@
 ### 🕒 Recently Active
 
 <!-- RECENT:START -->
-- [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-10-24</sub>
+- [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-10-29</sub>
 - [saebyeok-mart](https://github.com/monitari/saebyeok-mart) — 새벽 편의점 — 손님과 알바생이 살고 기억하는 관찰형 픽셀 편의점 <sub>· updated 2026-10-23</sub>
 - [motion-lab](https://github.com/monitari/motion-lab) — 마우스로 만지는 인터랙티브 웹 애니메이션 82종. 홀로 카드, 리퀴드 글래스, 물리, 셰이더. 라이브러리 없이 HTML·CSS·JS만. <sub>· updated 2026-10-19</sub>
 - [CO-OP_SURVIVORS](https://github.com/monitari/CO-OP_SURVIVORS) — 🐾 사슬로 묶인 두 고양이가 밤의 옥상을 지키는 2인 협동 서바이버라이크 (Godot 4.7.2, 2026 인디유 출품작) · A 2-player chained co-op survivor-like <sub>· updated 2026-10-15</sub>
