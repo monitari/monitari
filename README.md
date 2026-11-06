@@ -30,21 +30,21 @@
 | Project | Description | Stack | ⭐ |
 |---|---|---|---|
 | [**JELLY-Unity**](https://github.com/monitari/JELLY-Unity) | This project is a step-by-step implementation of an idle game, following the Unity tutorial series by 골드메탈. | `HTML` | 1 |
+| [**midelec-2026**](https://github.com/monitari/midelec-2026) | 2026 미국 중간선거 지도 대시보드 | `TypeScript` | 0 |
 | [**monitari.github.io**](https://github.com/monitari/monitari.github.io) | BLOG \| monitari.github.io | `JavaScript` | 0 |
 | [**overstack**](https://github.com/monitari/overstack) | 회로를 짜고 펄스를 쏴서 연쇄로 점수를 터뜨리는 픽셀 로그라이크 퍼즐 웹게임 | `TypeScript` | 0 |
 | [**saebyeok-mart**](https://github.com/monitari/saebyeok-mart) | 새벽 편의점 — 손님과 알바생이 살고 기억하는 관찰형 픽셀 편의점 | `JavaScript` | 0 |
 | [**motion-lab**](https://github.com/monitari/motion-lab) | 마우스로 만지는 인터랙티브 웹 애니메이션 82종. 홀로 카드, 리퀴드 글래스, 물리, 셰이더. 라이브러리 없이 HTML·CSS·JS만. | `JavaScript` | 0 |
-| [**CO-OP_SURVIVORS**](https://github.com/monitari/CO-OP_SURVIVORS) | 🐾 사슬로 묶인 두 고양이가 밤의 옥상을 지키는 2인 협동 서바이버라이크 (Godot 4.7.2, 2026 인디유 출품작) · A 2-player chained co-op survivor-like | `GDScript` | 0 |
 <!-- FEATURED:END -->
 
 ### 🕒 Recently Active
 
 <!-- RECENT:START -->
+- [midelec-2026](https://github.com/monitari/midelec-2026) — 2026 미국 중간선거 지도 대시보드 <sub>· updated 2026-11-05</sub>
 - [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-11-01</sub>
 - [overstack](https://github.com/monitari/overstack) — 회로를 짜고 펄스를 쏴서 연쇄로 점수를 터뜨리는 픽셀 로그라이크 퍼즐 웹게임 <sub>· updated 2026-10-31</sub>
 - [saebyeok-mart](https://github.com/monitari/saebyeok-mart) — 새벽 편의점 — 손님과 알바생이 살고 기억하는 관찰형 픽셀 편의점 <sub>· updated 2026-10-23</sub>
 - [motion-lab](https://github.com/monitari/motion-lab) — 마우스로 만지는 인터랙티브 웹 애니메이션 82종. 홀로 카드, 리퀴드 글래스, 물리, 셰이더. 라이브러리 없이 HTML·CSS·JS만. <sub>· updated 2026-10-19</sub>
-- [CO-OP_SURVIVORS](https://github.com/monitari/CO-OP_SURVIVORS) — 🐾 사슬로 묶인 두 고양이가 밤의 옥상을 지키는 2인 협동 서바이버라이크 (Godot 4.7.2, 2026 인디유 출품작) · A 2-player chained co-op survivor-like <sub>· updated 2026-10-15</sub>
 <!-- RECENT:END -->
 
 ---
