@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://www.youtube.com/@monitari" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.instagram.com/mo_nitari" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://x.com/MONITARI1" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/moni_tari" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://x.com/mo_nitari" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/monitari" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
 
 ---
