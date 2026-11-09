@@ -30,8 +30,8 @@
 | Project | Description | Stack | ⭐ |
 |---|---|---|---|
 | [**JELLY-Unity**](https://github.com/monitari/JELLY-Unity) | This project is a step-by-step implementation of an idle game, following the Unity tutorial series by 골드메탈. | `HTML` | 1 |
-| [**BAD_APPLE**](https://github.com/monitari/BAD_APPLE) | Bad Apple!! as a 3D ASCII spacetime sculpture — every frame stacked along a time axis, rendered with Three.js / WebGL2 | `JavaScript` | 0 |
 | [**monitari.github.io**](https://github.com/monitari/monitari.github.io) | BLOG \| monitari.github.io | `JavaScript` | 0 |
+| [**BAD_APPLE**](https://github.com/monitari/BAD_APPLE) | Bad Apple!! as a 3D ASCII spacetime sculpture — every frame stacked along a time axis, rendered with Three.js / WebGL2 | `JavaScript` | 0 |
 | [**folio-strata-lattice**](https://github.com/monitari/folio-strata-lattice) | 미완성 연구: 트랜스포머가 아닌 시퀀스 모델 구조 세 가지(Folio, Strata, Lattice)를 Transformer, GRU와 비교 | `Python` | 0 |
 | [**midelec-2026**](https://github.com/monitari/midelec-2026) | 2026 미국 중간선거 지도 대시보드 | `TypeScript` | 0 |
 | [**overstack**](https://github.com/monitari/overstack) | 회로를 짜고 펄스를 쏴서 연쇄로 점수를 터뜨리는 픽셀 로그라이크 퍼즐 웹게임 | `TypeScript` | 0 |
@@ -40,8 +40,8 @@
 ### 🕒 Recently Active
 
 <!-- RECENT:START -->
+- [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-11-08</sub>
 - [BAD_APPLE](https://github.com/monitari/BAD_APPLE) — Bad Apple!! as a 3D ASCII spacetime sculpture — every frame stacked along a time axis, rendered with Three.js / WebGL2 <sub>· updated 2026-11-07</sub>
-- [monitari.github.io](https://github.com/monitari/monitari.github.io) — BLOG \| monitari.github.io <sub>· updated 2026-11-07</sub>
 - [folio-strata-lattice](https://github.com/monitari/folio-strata-lattice) — 미완성 연구: 트랜스포머가 아닌 시퀀스 모델 구조 세 가지(Folio, Strata, Lattice)를 Transformer, GRU와 비교 <sub>· updated 2026-11-06</sub>
 - [midelec-2026](https://github.com/monitari/midelec-2026) — 2026 미국 중간선거 지도 대시보드 <sub>· updated 2026-11-05</sub>
 - [overstack](https://github.com/monitari/overstack) — 회로를 짜고 펄스를 쏴서 연쇄로 점수를 터뜨리는 픽셀 로그라이크 퍼즐 웹게임 <sub>· updated 2026-10-31</sub>
